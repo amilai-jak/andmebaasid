@@ -1,0 +1,29 @@
+{
+  "name": "andmebaasid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amilai-jak/andmebaasid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amilai-jak/andmebaasid/issues"
+  },
+  "homepage": "https://github.com/amilai-jak/andmebaasid#readme",
+  "description": "",
+  "dependencies": {
+    "duckdb": "^1.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  }
+}
